@@ -1,0 +1,37 @@
+- Що таке HTML
+- Теги та атрибути
+- doctype, html, head, body
+- title, meta
+- Семантика
+- Розмітка тексту p, h1...h6, ol/ul, a 
+- Зображення: img 
+- Абсолютні і відносні шляхи
+- Секціонні теги: header, footer, main, section, nav, article, aside
+- Валідація HTML-документа
+- Інструменти розробника: Chrome DevTools. Вкладки Elements.
+- Блочні і рядкові елементи
+
+- Базова розмітка макету
+- Git і як здавати домашку
+
+Урок №2
+- Символи
+- sup sub
+- em/i strong/b
+- address
+- table
+- span
+
+Урок №3
+
+- селектори і класи
+- ховер фокус курсор
+- Колір фону, rgb, rgba, bgc,
+
+Урок №4 
+- text-align
+- font family
+- font size
+- font weight
+- font style
+- fontface
